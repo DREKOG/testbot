@@ -1,0 +1,120 @@
+{
+  "general": {
+    "serverName": "EMERALDCRAFT",
+    "serverIp": "play.emeraldcraft.net",
+    "serverPort": "25565",
+    "description": "Server survival & semi-vanilla dengan komunitas ramah, event mingguan, dan ekonomi custom. Bangun, jelajahi, dan tumbuh bersama ratusan pemain lainnya.",
+    "logoUrl": "",
+    "discordUrl": "https://discord.gg/emeraldcraft",
+    "voteUrl": "https://minecraft-server-list.com/server/emeraldcraft"
+  },
+  "hero": {
+    "headline": "Bangun Duniamu di EmeraldCraft",
+    "subheadline": "Survival semi-vanilla dengan ekonomi, land claim, dan event mingguan. Gabung sekarang, dunia menunggu untuk dijelajahi.",
+    "backgroundImageUrl": ""
+  },
+  "features": [
+    {
+      "id": "f1",
+      "title": "Survival Semi-Vanilla",
+      "description": "Pengalaman survival klasik dengan sentuhan plugin ringan: land claim, /sethome, dan anti-grief.",
+      "icon": "pickaxe",
+      "order": 1
+    },
+    {
+      "id": "f2",
+      "title": "Ekonomi & Player Shop",
+      "description": "Jual beli item lewat shop pemain, lelang mingguan, dan job system untuk penghasilan tambahan.",
+      "icon": "coins",
+      "order": 2
+    },
+    {
+      "id": "f3",
+      "title": "Event Mingguan",
+      "description": "Build battle, PvP arena, dan mob event dengan hadiah rank & item eksklusif setiap minggu.",
+      "icon": "swords",
+      "order": 3
+    },
+    {
+      "id": "f4",
+      "title": "Land Claim Aman",
+      "description": "Lindungi basemu dari grief dengan sistem claim sederhana namun kuat.",
+      "icon": "shield",
+      "order": 4
+    },
+    {
+      "id": "f5",
+      "title": "Custom Enchant",
+      "description": "Enchantment tambahan yang seimbang untuk memperkaya gameplay tanpa merusak progresi.",
+      "icon": "sparkles",
+      "order": 5
+    },
+    {
+      "id": "f6",
+      "title": "Komunitas Ramah",
+      "description": "Staff aktif 24/7, Discord solid, dan komunitas yang menyambut pemain baru.",
+      "icon": "users",
+      "order": 6
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Update 1.21: Dunia Baru Dibuka!",
+      "content": "Server telah diperbarui ke versi 1.21. Dunia survival baru resmi dibuka dengan border 10.000 blok. Dunia lama akan diarsipkan dalam 30 hari, silakan pindahkan barang penting kalian.",
+      "date": "2026-08-20"
+    },
+    {
+      "id": "n2",
+      "title": "Event Build Battle: Tema Kastil",
+      "content": "Ikuti event build battle akhir pekan ini dengan tema Kastil Abad Pertengahan. Total hadiah 50.000 koin dan rank VIP gratis untuk 3 pemenang teratas.",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "n3",
+      "title": "Maintenance Terjadwal",
+      "content": "Server akan maintenance pada Minggu, 08:00-10:00 WIB untuk optimasi performa dan update plugin keamanan.",
+      "date": "2026-08-10"
+    }
+  ],
+  "rules": [
+    { "id": "r1", "text": "Dilarang keras cheating, hacked client, atau exploit bug apapun.", "order": 1 },
+    { "id": "r2", "text": "Hormati sesama pemain. Toxic, rasisme, dan SARA akan berujung banned permanen.", "order": 2 },
+    { "id": "r3", "text": "Dilarang griefing atau mencuri di luar area PvP/war zone yang ditentukan.", "order": 3 },
+    { "id": "r4", "text": "Dilarang advertising server lain di chat maupun Discord.", "order": 4 },
+    { "id": "r5", "text": "Nama karakter dan skin harus sopan, tidak mengandung unsur SARA/pornografi.", "order": 5 },
+    { "id": "r6", "text": "Laporkan bug ke staff, jangan dieksploitasi untuk keuntungan pribadi.", "order": 6 }
+  ],
+  "store": [
+    {
+      "id": "s1",
+      "name": "Miner",
+      "price": "25.000",
+      "currency": "IDR",
+      "benefits": ["Prefix [Miner]", "3 Home", "Kit harian", "Akses /fly di lahan sendiri"],
+      "imageUrl": "",
+      "highlighted": false,
+      "order": 1
+    },
+    {
+      "id": "s2",
+      "name": "Emerald",
+      "price": "60.000",
+      "currency": "IDR",
+      "benefits": ["Prefix [Emerald]", "6 Home", "Kit harian + mingguan", "Slot server prioritas", "Akses channel Discord VIP"],
+      "imageUrl": "",
+      "highlighted": true,
+      "order": 2
+    },
+    {
+      "id": "s3",
+      "name": "Legend",
+      "price": "120.000",
+      "currency": "IDR",
+      "benefits": ["Prefix [Legend]", "10 Home", "Semua kit", "Particle effect custom", "Akses ruangan build khusus"],
+      "imageUrl": "",
+      "highlighted": false,
+      "order": 3
+    }
+  ]
+}
